@@ -1,0 +1,19 @@
+Food	Price
+Milk (regular), (0.25 liter)	0.19 €
+Loaf of Fresh White Bread (125.00 g)	0.24 €
+Rice (white), (0.10 kg)	0.09 €
+Eggs (regular) (2.40)	0.33 €
+Local Cheese (0.10 kg)	0.89 €
+Chicken Breasts (Boneless, Skinless), (0.15 kg)	0.86 €
+Beef Round (0.15 kg) (or Equivalent Back Leg Red Meat)	1.52 €
+Apples (0.30 kg)	0.47 €
+Banana (0.25 kg)	0.36 €
+Oranges (0.30 kg)	0.36 €
+Tomato (0.20 kg)	0.29 €
+Potato (0.20 kg)	0.19 €
+Onion (0.10 kg)	0.10 €
+Lettuce (0.20 head)	0.18 €
+
+Recommended Minimum Amount of Money for food (2400 calories, Western food types)
+Daily recommended minimum amount of money for food per person	6.08 €
+Monthly recommended minimum amount of money for food per person  (assuming 31 days per month)	188.44 €
