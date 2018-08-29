@@ -70,7 +70,7 @@ Carina is the author of Learning Pentaho Data Integration 8 CE, published by Pac
 
 ## Other books by the authors
 * [Pentaho 3.2 Data Integration: Beginner's Guide](https://www.packtpub.com/big-data-and-business-intelligence/pentaho-32-data-integration-beginners-guide?utm_source=github&utm_medium=repository&utm_campaign=9781847199546)
-* [Linux Mint Essentials](https://www.packtpub.com/big-data-and-business-intelligence/pentaho-data-integration-4-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781849515245)
+* [Pentaho Data Integration 4 Cookbook](https://www.packtpub.com/big-data-and-business-intelligence/pentaho-data-integration-4-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781849515245)
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
