@@ -1,8 +1,8 @@
 # Pentaho Data Integration Quick Start Guide
 
-<a href="Packt UTM URL of the Book"><img src="Cover Image URL of the Book" alt="Pentaho Data Integration Quick Start Guide" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/big-data-and-business-intelligence/pentaho-data-integration-quick-start-guide?utm_source=github&utm_medium=repository&utm_campaign=9781789343328"><img src="https://d255esdrn735hr.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B11158_cover_New.png" alt="Pentaho Data Integration Quick Start Guide" height="256px" align="right"></a>
 
-This is the code repository for [Pentaho Data Integration Quick Start Guide](Packt UTM URL of the Book), published by Packt.
+This is the code repository for [Pentaho Data Integration Quick Start Guide](https://www.packtpub.com/big-data-and-business-intelligence/pentaho-data-integration-quick-start-guide?utm_source=github&utm_medium=repository&utm_campaign=9781789343328), published by Packt.
 
 **Create ETL processes using Pentaho**
 
