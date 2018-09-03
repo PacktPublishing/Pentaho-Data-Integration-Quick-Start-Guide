@@ -53,7 +53,7 @@ With the following software and hardware list you can run all code files present
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://www.packtpub.com/sites/default/files/downloads/PentahoDataIntegrationQuickStartGuide_ColorImages.pdf).
 
-### Related products <Other books you may enjoy>
+### Related products
 * SAS for Finance [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/sas-finance?utm_source=github&utm_medium=repository&utm_campaign=9781788624565) [[Amazon]](https://www.amazon.com/dp/1788624564)
 
 * Mastering Qlik Sense [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/mastering-qlik-sense?utm_source=github&utm_medium=repository&utm_campaign=9781783554027) [[Amazon]](https://www.amazon.com/dp/1783554029)
