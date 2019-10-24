@@ -1,0 +1,9 @@
+person_id;injury_type;injury_side;injury_date
+812;elbow;left;2018-05-19
+813;shoulder;left;2018-05-15
+119;calf;both;2018-05-20
+370;wrist;;2018-05-08
+241;other-excused;;2018-05-26
+790;shoulder;;2018-06-30
+941;knee;right;2018-07-01
+151;knee;right;2018-07-11

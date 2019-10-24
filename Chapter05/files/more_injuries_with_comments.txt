@@ -1,0 +1,5 @@
+person_id;injury_type;injury_side;injury_date;comment
+812;elbow;left;2018-05-19;Season 2018
+813;shoulder;left;2018-05-15;playing football
+141;other-excused;;2018-05-26;serious injury
+241;other-excused;;2018-05-26;serious injury
